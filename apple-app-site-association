@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6445998856.xyz.rockneko.Chat"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "6445998856.xyz.rockneko.Chat"
+    ]
+  }
+}
